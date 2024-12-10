@@ -1,0 +1,22 @@
+.user-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-item {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.user-item img {
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.loading, .error {
+    text-align: center;
+    font-size: 18px;
+}
