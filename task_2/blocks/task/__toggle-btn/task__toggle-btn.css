@@ -1,0 +1,9 @@
+.task__toggle-btn {
+    cursor: pointer;
+    border-color: #fff;
+    background-color: #8b1e80;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 15px;
+    margin-left: 30px;
+}

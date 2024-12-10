@@ -1,0 +1,9 @@
+.task__delete-btn {
+  margin-left: 50px;
+  cursor: pointer;
+  border-color: #fff;
+  background-color: #471515;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 15px;
+}

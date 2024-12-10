@@ -1,0 +1,28 @@
+.task {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-bottom: 15px;
+  max-width: 800px;
+}
+
+.task .task__text {
+  color: #ec9393;
+  text-decoration: none;
+}
+
+.task.completed {
+  background-color: #e0ffe0;
+}
+
+.task.completed .task__text {
+  color: #999;
+  text-decoration: line-through;
+}
+
+.task.completed .task__toggle-btn {
+  background-color: #2e9d40;
+}
